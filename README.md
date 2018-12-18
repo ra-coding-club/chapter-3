@@ -99,22 +99,22 @@ External CSS Styling | Basic HTML Document Layout | Internal CSS Styling | Inlin
 
 Sample: *Basic HTML Document Layout*
 
-1. 
+1. Internal CSS Styling
 
-2. 
+2. External CSS Styling
 
-3. 
+3. Inline CSS Styling 
 
-4. 
+4. ...
 
-5. 
+5. ...
 
-6. 
+6. ...
 
-7. 
+7. ...
 
-8. 
+8. ...
 
-9. 
+9. ...
 
-10. 
+10. ...
